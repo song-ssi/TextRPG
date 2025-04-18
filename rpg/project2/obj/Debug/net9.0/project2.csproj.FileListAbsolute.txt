@@ -1,0 +1,14 @@
+/Users/ces/Unity/Workspace/rpg/project2/obj/Debug/net9.0/project2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ces/Unity/Workspace/rpg/project2/obj/Debug/net9.0/project2.AssemblyInfoInputs.cache
+/Users/ces/Unity/Workspace/rpg/project2/obj/Debug/net9.0/project2.AssemblyInfo.cs
+/Users/ces/Unity/Workspace/rpg/project2/obj/Debug/net9.0/project2.csproj.CoreCompileInputs.cache
+/Users/ces/Unity/Workspace/rpg/project2/bin/Debug/net9.0/project2
+/Users/ces/Unity/Workspace/rpg/project2/bin/Debug/net9.0/project2.deps.json
+/Users/ces/Unity/Workspace/rpg/project2/bin/Debug/net9.0/project2.runtimeconfig.json
+/Users/ces/Unity/Workspace/rpg/project2/bin/Debug/net9.0/project2.dll
+/Users/ces/Unity/Workspace/rpg/project2/bin/Debug/net9.0/project2.pdb
+/Users/ces/Unity/Workspace/rpg/project2/obj/Debug/net9.0/project2.dll
+/Users/ces/Unity/Workspace/rpg/project2/obj/Debug/net9.0/refint/project2.dll
+/Users/ces/Unity/Workspace/rpg/project2/obj/Debug/net9.0/project2.pdb
+/Users/ces/Unity/Workspace/rpg/project2/obj/Debug/net9.0/project2.genruntimeconfig.cache
+/Users/ces/Unity/Workspace/rpg/project2/obj/Debug/net9.0/ref/project2.dll
